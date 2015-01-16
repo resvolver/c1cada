@@ -136,17 +136,20 @@ def shifted_text(text, ansatz, direction):
     return shifted
 
 ansatz = "PARABLE"
+SECTION_NUM = 0
+
 rune_ansatz = english_to_runes(ansatz)
 liber_primus = get_liber_primus()
 
-section = liber_primus[0]
+section = liber_primus[SECTION_NUM]
 
-f = open('key_phrases/' + ansatz + '.txt', 'a')
-f.write("------- BEGIN KEY " + ansatz + " -------\n")
+f = open('key_phrases/' + ansatz + '_' + str(SECTION_NUM) + '.txt', 'a')
+f.write('------- BEGIN KEY \"' + ansatz + '\" -------\n')
+f.write('SECTION ' + str(SECTION_NUM) + '\n\n')
 
 for i in range(len(section) - len(rune_ansatz)):
     f.write("Pos: " + "%-6s"%str(i) + " Forward :\t" + shifted_text(section[i:], rune_ansatz, 0) + '\n')
     f.write("Pos: " + "%-6s"%str(i) + " Backward:\t" + shifted_text(section[i:], rune_ansatz, 1) + '\n')
 
-f.write("------- END KEY " + ansatz + " -------\n")
+f.write('------- END KEY \"' + ansatz + '\" -------\n')
 f.close()
