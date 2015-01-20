@@ -38,6 +38,7 @@ while ($file = readdir PAGES ) {
 	next if $file !~ /^page.*txt$/;
 	$index = 0;
 	$line = "";
+	undef %lots;
 	undef %freq;
 	undef %freqwithout;
 	open IN,"<:encoding(utf8)", "$file";
@@ -48,6 +49,9 @@ while ($file = readdir PAGES ) {
 	        	$rotate = $primes[$index++ % 29]-1;
 			$freqwithout{$toletter{$alpha[($postion{$i}) % 29]}}++;
 			$freq{$toletter{$alpha[($postion{$i}-$rotate) % 29]}}++;
+			for $lots (0..100){
+				$lots{$lots}{$toletter{$alpha[($postion{$i}-int(rand()*29)) % 29 ]}}++;
+			}
 		}
 	}
 
@@ -65,7 +69,19 @@ while ($file = readdir PAGES ) {
 			$worstrune = $i;
 		}
 	}
-	printf "Prime Shift: %4s %6.2f%% from average frequency, ",$worstrune,$worst;
+	printf "Prime Shift: %4s %6.2f%%  ",$worstrune,$worst;
+	$worst = 0;
+	$worstrune = "";
+	for $lots ( 0..100) {
+	for $i (keys %{$lots{$lots}} ) {
+		$offaverage = abs((($average-$lots{$lots}{$i})/$average))*100;
+		if ( $worst < $offaverage) {
+			$worst = $offaverage if $worst < $offaverage;
+			$worstrune = $i;
+		}
+	}
+	}
+	printf "Random  : %3s %6.2f%% ",$worstrune,$worst;
 	$worst = 0;
 	$worstrune = "";
 	for $i (keys %freqwithout ) {
@@ -75,6 +91,7 @@ while ($file = readdir PAGES ) {
 			$worstrune = $i;
 		}
 	}
-	printf "No shift: %2s %5.2f%% Off average\n",$worstrune,$worst;
+	printf " No shift: %3s %6.2f%% \n",$worstrune,$worst;
+
 }
 
