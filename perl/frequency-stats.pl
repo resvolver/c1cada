@@ -45,25 +45,7 @@ while ($file = readdir PAGES ) {
 		for $i ( split //) {
 			next if ord($i) eq 10;
 			next if ord($i) eq 13;
-			if ($i !~ /[$alpha]/ ) {
-				$c = $word; $c =~ s/U/V/g;    if ( $dict{$u} && ! $dict{$word} ) { $word = $c; }
-               	         	$c = $word; $c =~ s/C/K/g;    if ( $dict{$c} && ! $dict{$word} ) { $word = $c; }
-                        	$c = $word; $c =~ s/S/Z/g;    if ( $dict{$c} && ! $dict{$word} ) { $word = $c; }
-                        	$c = $word; $c =~ s/ING/NG/g; if ( $dict{$c} && ! $dict{$word} ) { $word = $c; }
-                        	if ( $dict{$word} ) {
-                        		$line .= "(".$word.") ";
-                        		$valid++;
-					$start++ if ! $break;
-                        	} else {
-                        		$break = 1;
-                                	$line .= $word." ";
-                        	}
-                        	$total++;
-                        	$word = "";
-				next;
-			}
 	        	$rotate = $primes[$index++ % 29]-1;
-        		$word  .= $toletter{$alpha[($postion{$i}-$rotate) % 29]};
 			$freqwithout{$toletter{$alpha[($postion{$i}) % 29]}}++;
 			$freq{$toletter{$alpha[($postion{$i}-$rotate) % 29]}}++;
 		}
