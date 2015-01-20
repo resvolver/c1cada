@@ -43,8 +43,8 @@ while ($file = readdir PAGES ) {
 	open IN,"<:encoding(utf8)", "$file";
 	while (<IN>){
 		for $i ( split //) {
-			next if ord($i) eq 10;
-			next if ord($i) eq 13;
+			next if $i !~ /[$alpha]/;
+
 	        	$rotate = $primes[$index++ % 29]-1;
 			$freqwithout{$toletter{$alpha[($postion{$i}) % 29]}}++;
 			$freq{$toletter{$alpha[($postion{$i}-$rotate) % 29]}}++;
@@ -53,7 +53,6 @@ while ($file = readdir PAGES ) {
 
 	$total = 0;
 	$worst = 0;
-	%rev = reverse %freq;
 	for $i ( keys %freq ) {
 		$total +=  $freq{$i};
 	}
@@ -61,7 +60,6 @@ while ($file = readdir PAGES ) {
 	printf "%-16s (runes=%5d) ",$file,$total;
 	for $i (keys %freq ) {
 		$offaverage = abs((($average-$freq{$i})/$average))*100;
-		#print "$i ".int($offaverage).",";
 		if ( $worst < $offaverage) {
 			$worst = $offaverage if $worst < $offaverage;
 			$worstrune = $i;
@@ -72,7 +70,6 @@ while ($file = readdir PAGES ) {
 	$worstrune = "";
 	for $i (keys %freqwithout ) {
 		$offaverage = abs((($average-$freqwithout{$i})/$average))*100;
-		#print "$i ".int($offaverage).",";
 		if ( $worst < $offaverage) {
 			$worst = $offaverage if $worst < $offaverage;
 			$worstrune = $i;
