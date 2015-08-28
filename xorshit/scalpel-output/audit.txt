@@ -1,0 +1,72 @@
+
+Scalpel version 1.60 audit file
+Started at Wed Aug 12 22:42:57 2015
+Command line:
+scalpel -v page0xor4.jpg 
+
+Output directory: /home/devmach/Desktop/junks/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/devmach/Desktop/junks/page0xor4.jpg"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000055.pgp       637416		YES           58110		page0xor4.jpg
+00000054.pgp       609112		YES           86414		page0xor4.jpg
+00000053.pgp       575624		YES          100000		page0xor4.jpg
+00000052.pgp       546235		YES          100000		page0xor4.jpg
+00000051.pgp       529662		YES          100000		page0xor4.jpg
+00000050.pgp       485686		YES          100000		page0xor4.jpg
+00000049.pgp       443851		YES          100000		page0xor4.jpg
+00000048.pgp       333148		YES          100000		page0xor4.jpg
+00000047.pgp       328501		YES          100000		page0xor4.jpg
+00000046.pgp       252050		YES          100000		page0xor4.jpg
+00000045.pgp       198269		YES          100000		page0xor4.jpg
+00000044.pgp        57244		YES          100000		page0xor4.jpg
+00000043.pgp       667095		YES           28431		page0xor4.jpg
+00000042.pgp       642078		YES           53448		page0xor4.jpg
+00000041.pgp       627503		YES           68023		page0xor4.jpg
+00000040.pgp       526245		YES          100000		page0xor4.jpg
+00000039.pgp       513635		YES          100000		page0xor4.jpg
+00000038.pgp       359048		YES          100000		page0xor4.jpg
+00000037.pgp       354559		YES          100000		page0xor4.jpg
+00000036.pgp       342406		YES          100000		page0xor4.jpg
+00000035.pgp       242076		YES          100000		page0xor4.jpg
+00000034.pgp       183768		YES          100000		page0xor4.jpg
+00000033.pgp       117832		YES          100000		page0xor4.jpg
+00000032.pgp        99949		YES          100000		page0xor4.jpg
+00000031.pgp        21720		YES          100000		page0xor4.jpg
+00000030.pgp       678528		YES           16998		page0xor4.jpg
+00000029.pgp       581984		YES          100000		page0xor4.jpg
+00000028.pgp       568724		YES          100000		page0xor4.jpg
+00000027.pgp       558974		YES          100000		page0xor4.jpg
+00000026.pgp       557842		YES          100000		page0xor4.jpg
+00000025.pgp       548348		YES          100000		page0xor4.jpg
+00000024.pgp       509174		YES          100000		page0xor4.jpg
+00000023.pgp       474398		YES          100000		page0xor4.jpg
+00000022.pgp       466057		YES          100000		page0xor4.jpg
+00000021.pgp       451670		YES          100000		page0xor4.jpg
+00000020.pgp       337554		YES          100000		page0xor4.jpg
+00000019.pgp       336772		YES          100000		page0xor4.jpg
+00000018.pgp       311159		YES          100000		page0xor4.jpg
+00000017.pgp       207901		YES          100000		page0xor4.jpg
+00000016.pgp       168619		YES          100000		page0xor4.jpg
+00000015.pgp       163714		YES          100000		page0xor4.jpg
+00000014.pgp       111706		YES          100000		page0xor4.jpg
+00000013.pgp        45718		YES          100000		page0xor4.jpg
+00000012.pgp       623802		YES           71724		page0xor4.jpg
+00000011.pgp       600234		YES           95292		page0xor4.jpg
+00000010.pgp       551620		YES          100000		page0xor4.jpg
+00000009.pgp       507297		YES          100000		page0xor4.jpg
+00000008.pgp       463158		YES          100000		page0xor4.jpg
+00000007.pgp       460839		YES          100000		page0xor4.jpg
+00000006.pgp       351384		YES          100000		page0xor4.jpg
+00000005.pgp       322829		YES          100000		page0xor4.jpg
+00000004.pgp       210900		YES          100000		page0xor4.jpg
+00000003.pgp       170535		YES          100000		page0xor4.jpg
+00000002.pgp       122686		YES          100000		page0xor4.jpg
+00000001.pgp        79376		YES          100000		page0xor4.jpg
+00000000.pgp        55235		YES          100000		page0xor4.jpg
+
+
+Completed at Wed Aug 12 22:42:57 2015

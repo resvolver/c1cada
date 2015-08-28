@@ -1,0 +1,18 @@
+
+1) Get a typical english plain text of around 3000 letters
+2) Create code that converts that to runes.
+3) Create an encoder that uses Quagmire 1 (converted to use alphabet of 29 runes).
+4) Convert that unencrypted rune text encode it using a random keyword length 11, dump result in the perl directory as page.100.txt and test the rune randomness of the encrypted text.
+5) Repeat above for 10+ keywords, just to check the randomness is consistant.
+6) Create Quagmire 2,3,4 encoders and repeat.
+
+This should prove/disprove the likelyhood of the text being encoded with Quagmire
+
+Continue this approach for any possible encoder.
+
+Continue this approach using prime stream instead of a key, where it is logically possible to use a prime stream.
+
+Try a long keyword, such as the entire Instar Poem as the key.
+
+
+

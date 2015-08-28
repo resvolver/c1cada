@@ -1,0 +1,118 @@
+file,X,symbol,Y,Symbol 2,Y,C,HC,corruption,identity info,,,outguess info,,,
+0,x,crosses,x,infi,n,y,y,,,,1,Corrupt JPEG data: bad Huffman code,0x22e-0x29b,00 00 00 00 00 00 04 00 00 00 00 05 00 0A 00 0F 00 14 00 19 00 1E 00 23 00 28 00 2D 00 32 00 37 00 3B 00 40 00 45 00 4A 00 4F 00 54 00 59 00 5E 00 63 00 68 00 6D 00 72 00 77 00 7C 00 81 00 86 00 8B 00 90 00 95 00 9A 00 9F 00 A4 00 A9 00 AE 00 B2 00 B7 00 BC 00 C1 00 C6 00 CB 00 D0 00 D5 00 DB 00 E0 00 E5 00 EB 00 F0 00 F6 00 FB,1
+1,x,cross,x,n,n,n,y,,,,,,14.2,,0
+2,x,crosses,x,"cicada,infi",n,n,,,,,,,,,0
+3,,,,,,n,,,,,,,,,0
+4,,,,,y,,y,,,,,,,00 00 00 00 00 00 04 00 00 00 00 05 00 0A 00 0F 00 14 00 19 00 1E 00 23 00 28 00 2D 00 32 00 37 00 3B 00 40 00 45 00 4A 00 4F 00 54 00 59 00 5E 00 63 00 68 00 6D 00 72 00 77 00 7C 00 81 00 86 00 8B 00 90 00 95 00 9A 00 9F 00 A4 00 A9 00 AE 00 B2 00 B7 00 BC 00 C1 00 C6 00 CB 00 D0 00 D5 00 DB 00 E0 00 E5 00 EB 00 F0 00 F6 00 FB,1
+5,x,squiggles,x,n,y,  ,,,,,2,error: Bogus marker length,id info 5idinfo.txt,,0
+6,,,,,,,,,,,,,,,0
+7,,,,,,,,,,,,,,,0
+8,,,,,,,,,,,,,,,0
+9,,,,,y,,,,,,,,,,0
+10,,,,,y,,,,,,,,,,0
+11,,,,,y,,,,,,3,Corrupt JPEG data: bad Huffman code,11idinfo,,0
+12,,,,,y,,,,,,,,,,0
+13,,,,,y,,,,,,,,,,0
+14,,,,,,,,,,,,,,,0
+15,,,,,,,,,,,,,,,0
+16,,,,,y,,,,,,,: error: is not a RGB image,,,0
+17,,,,,y,,y,,,,,: error: is not a RGB image,,,0
+18,,,,,y,,,,,4,1,error: is not a RGB imageCorrupt JPEG data: 1 extraneous bytes before marker 0xd9,,,0
+19,,,,,y,,y,,,,,error: is not a RGB image,,,0
+20,,,,,y,,,,,5,6,error: is not a RGB imageCorrupt JPEG data: 6 extraneous bytes before marker 0xd9,,,0
+21,,,,,y,,,,,6,110,error: is not a RGB imageCorrupt JPEG data: 110 extraneous bytes before marker 0xd9,,,0
+22,,,,,,,,,,7,,Corrupt JPEG data: bad Huffman code,,,0
+23,,,,,,,,,,,,,,,0
+24,,,,,y,,,,,,,"error: is not a RGB image
+",,,0
+25,,,,,y,,,,,8,,"error: is not a RGB image Corrupt JPEG data: bad Huffman code
+",,,0
+26,,,,,,,,,,9,9,"negative Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+",,,1
+27,,,,,,,,,,,,,,,0
+28,,,,,y,,,,,,,"error: is not a RGB image
+",,,0
+29,,,,,y,,,,,10,5,"error: is not a RGB image Corrupt JPEG data: 5 extraneous bytes before marker 0xd9
+",,,0
+30,,,,,y,,,,,,,"error: is not a RGB image
+",,,0
+31,,,,,y,,y,,,,,"error: is not a RGB image
+",,00 00 00 00 00 00 04 00 00 00 00 05 00 0A 00 0F 00 14 00 19 00 1E 00 23 00 28 00 2D 00 32 00 37 00 3B 00 40 00 45 00 4A 00 4F 00 54 00 59 00 5E 00 63 00 68 00 6D 00 72 00 77 00 7C 00 81 00 86 00 8B 00 90 00 95 00 9A 00 9F 00 A4 00 A9 00 AE 00 B2 00 B7 00 BC 00 C1 00 C6 00 CB 00 D0 00 D5 00 DB 00 E0 00 E5 00 EB 00 F0 00 F6 00 FB,0
+32,x,3 dots,n,cuniform,n,,,,,11,,"negative
+ Corrupt JPEG data: bad Huffman code
+",,,0
+33,,,,,,,,,,12,,"negative
+ Corrupt JPEG data: bad Huffman code
+",,,0
+34,,,,,y,,,,,13,,"skipped (false positive likely) Corrupt JPEG data: bad Huffman code
+",,,0
+35,,,,,y,,,,,14,4,"skipped (false positive likely) Corrupt JPEG data: 4 extraneous bytes before marker 0xd9
+",,,0
+36,,,,,,,,,,,,"negative
+",,,0
+37,,,,,,,,,,15,,"error: Bogus marker length Corrupt JPEG data: bad Huffman code
+",,,0
+38,,,,,,,,,,,11,"skipped (false positive likely) Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+",,,0
+39,,,,,,,,,,,10,"skipped (false positive likely) Corrupt JPEG data: 10 extraneous bytes before marker 0xd9
+",,,0
+40,,,,,,,y,,,,,,,,1
+41,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+",,,1
+42,,,,,y,,y,,,,,"error: is not a RGB image
+",,,1
+43,,,,,y,,,,,,,"error: is not a RGB image
+",,,1
+44,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: premature end of data segment
+",,,1
+45,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: 6 extraneous bytes before marker 0xd9
+",,,1
+46,,,,,y,,y,,,,,"error: is not a RGB image
+",,,1
+47,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+",,,1
+48,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: bad Huffman code
+",,,1
+49,,,,,,,y,,,,,,,,0
+50,,,,,y,,,,,,,"error: is not a RGB image
+",,,0
+51,,,,,y,,,,,,,"error: is not a RGB image
+",,,1
+52,,,,,y,,,,,,,"error: is not a RGB image Corrupt JPEG data: bad Huffman code
+",,,1
+53,,,,,,,,,,,,"negative Corrupt JPEG data: bad Huffman code
+",,,1
+54,,,,,,,,,,,,,,,1
+55,,,,,,,,,,,,"error: Bogus marker length
+",,,0
+56,,,,,,,,,,,,"negative Corrupt JPEG data: bad Huffman code
+",,,0
+57,,,,,,,,,,,,,,,0
+58,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,-67,-67,,,,,,,,,,

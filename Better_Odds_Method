@@ -1,0 +1,19 @@
+This is what its li rabbits...
+
+For every group of characters we have a finite number of words that those characters can decode into,
+so let's start eliminating some of the possibilities.
+Divide entire book into sections... there seems to be 13 or so sections (if memory serves) some short,
+only sa page or two, others are 8 -14 pages. I would imagine that if were facing a rolling cypher it's
+general settings will not change within the working section, so we can hopefully assume that if we 
+find two words rthat match the same pattern of progression they are likely the same word. If you loo
+k at even a sentence as a whole and try to determine the total possible combinations of words that it 
+could represent the task will seem daunting, so let's break it down... What we are trying to do here is narrow
+our search terms. the english language follows a lot of basic patterns based on probability and frequency...
+
+psuedo-code $sentences = explode($sentence_array, ","); $num_sents = count($sentences); $foreach($sentences as $sentence); 
+  $words= explode($sentence,","); foreach($words as $word){ $char_array = explode($word,","); foreach($chars as $char){
+  function gather_data_on_chars($char){//this is where we start gathering a lot of raw data. It may seem 
+                                      overkill but it'll help later... the data i think we should be collecting is every                                       characters frequency of occurance, 
+                                      it's position in the word, and it's imediate neighbors both front and back....
+                                      english letters tend to fall together in groups.
+                                      $position_x = "INSERT $char, $pos_in_word, $freq, $neighbor_r,$neighbor_l,$$char1$word1$sentence1$paragraph1$section1

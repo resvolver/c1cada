@@ -1,0 +1,740 @@
+------- BEGIN KEY "ENIGMA" -------
+SECTION 8
+
+Pos: 0      Forward :	P EATHFBY
+Pos: 0      Backward:	G IJBHW
+Pos: 1      Forward :	 HURRINGN
+Pos: 1      Backward:	 UEOPINGEOM
+Pos: 2      Forward :	HURRINGN
+Pos: 2      Backward:	UEOPINGEOM
+Pos: 3      Forward :	IOHHRC
+Pos: 3      Backward:	OXBAEAS
+Pos: 4      Forward :	EOWEOLFX
+Pos: 4      Backward:	CEINGHLA
+Pos: 5      Forward :	TJATN OE
+Pos: 5      Backward:	NOERRF O
+Pos: 6      Forward :	LDLAE BE
+Pos: 6      Backward:	PCFP HEA
+Pos: 7      Forward :	OMF RPH
+Pos: 7      Backward:	AEUN INGRE
+Pos: 8      Forward :	EAEA HFOT
+Pos: 8      Backward:	INGI BBDY
+Pos: 9      Forward :	H WRMJAE
+Pos: 9      Backward:	U EPWTHG
+Pos: 10     Forward :	 TODIALTH
+Pos: 10     Backward:	 NXOSJEO
+Pos: 11     Forward :	TODIALTH
+Pos: 11     Backward:	NXOSJEO
+Pos: 12     Forward :	EOOETHWYM
+Pos: 12     Backward:	CRJABF
+Pos: 13     Forward :	THUJPXX
+Pos: 13     Backward:	AEOLUCA
+Pos: 14     Forward :	IIBUN J
+Pos: 14     Backward:	OINGYEF ING
+Pos: 15     Forward :	MTCAE GM
+Pos: 15     Backward:	EOIAXP YF
+Pos: 16     Forward :	AERF OEXT
+Pos: 16     Backward:	ESN ICY
+Pos: 17     Forward :	PEA YUJ T
+Pos: 17     Backward:	GI GETH Y
+Pos: 18     Forward :	H AECIA JY
+Pos: 18     Backward:	U WXS THW
+Pos: 19     Forward :	 CRTH IAINGOE
+Pos: 19     Backward:	 IASJ SEOO
+Pos: 20     Forward :	CRTH IAINGOE
+Pos: 20     Backward:	IASJ SEOO
+Pos: 21     Forward :	PU THHBTH
+Pos: 21     Backward:	GEO JAEHEO
+Pos: 22     Forward :	I UEORYI
+Pos: 22     Backward:	O EOINGINGBL
+Pos: 23     Forward :	 IJHPCO
+Pos: 23     Backward:	 OOEBUAEP
+Pos: 24     Forward :	IJHPCO
+Pos: 24     Backward:	OOEBUAEP
+Pos: 25     Forward :	LWBINGIA C
+Pos: 25     Backward:	PEYNE S
+Pos: 26     Forward :	TTAEX FF
+Pos: 26     Backward:	NIACTH LI
+Pos: 27     Forward :	AEAE TA L
+Pos: 27     Backward:	EGIA RS U
+Pos: 28     Forward :	RB LJ SH
+Pos: 28     Backward:	YEA FEA GE
+Pos: 29     Forward :	Y MS THOL
+Pos: 29     Backward:	M UA MDU
+Pos: 30     Forward :	 EAX GMSU
+Pos: 30     Backward:	 INGAE SWGJ
+Pos: 31     Forward :	EAX GMSU
+Pos: 31     Backward:	INGAE SWGJ
+Pos: 32     Forward :	D CDTHAEIA
+Pos: 32     Backward:	T TOMTH
+Pos: 33     Forward :	 XOEGEOOE X
+Pos: 33     Backward:	 WRSFP A
+Pos: 34     Forward :	XOEGEOOE X
+Pos: 34     Backward:	WRSFP A
+Pos: 35     Forward :	THCTN NC
+Pos: 35     Backward:	ATAEY FS
+Pos: 36     Forward :	XSP AEFM
+Pos: 36     Backward:	WYOE PLF
+Pos: 37     Forward :	AEO FTX P
+Pos: 37     Backward:	BD NRC D
+Pos: 38     Forward :	ING EALU HIA
+Pos: 38     Backward:	X IFE EAH
+Pos: 39     Forward :	 HMC AOE J
+Pos: 39     Backward:	 UUX EOP ING
+Pos: 40     Forward :	HMC AOE J
+Pos: 40     Backward:	UUX EOP ING
+Pos: 41     Forward :	EAR EAN GTH
+Pos: 41     Backward:	INGS HY YEO
+Pos: 42     Forward :	P IAP OEYIA
+Pos: 42     Backward:	G NOE IBH
+Pos: 43     Forward :	 WEO YPOE A
+Pos: 43     Backward:	 FD GUP C
+Pos: 44     Forward :	WEO YPOE A
+Pos: 44     Backward:	FD GUP C
+Pos: 45     Forward :	ING AEBN MING
+Pos: 45     Backward:	X WYY ITH
+Pos: 46     Forward :	 CTP GTAE
+Pos: 46     Backward:	 IAIAOE DWG
+Pos: 47     Forward :	CTP GTAE
+Pos: 47     Backward:	IAIAOE DWG
+Pos: 48     Forward :	AEEO IOLJ
+Pos: 48     Backward:	ED MLJING
+Pos: 49     Forward :	ING NWWGG
+Pos: 49     Backward:	X LTAYT
+Pos: 50     Forward :	 EGJOEU Y
+Pos: 50     Backward:	 JBLIING W
+Pos: 51     Forward :	EGJOEU Y
+Pos: 51     Backward:	JBLIING W
+Pos: 52     Forward :	SIYB INGG
+Pos: 52     Backward:	HINGGC EOT
+Pos: 53     Forward :	MAEING HUD
+Pos: 53     Backward:	EOWU AEINGR
+Pos: 54     Forward :	CL EOBEP
+Pos: 54     Backward:	IATH INGCND
+Pos: 55     Forward :	F JINGCHF
+Pos: 55     Backward:	OE OEUOEEAI
+Pos: 56     Forward :	 LLNAAR
+Pos: 56     Backward:	 PTHEEOSX
+Pos: 57     Forward :	LLNAAR
+Pos: 57     Backward:	PTHEEOSX
+Pos: 58     Forward :	FHEAJEAD
+Pos: 58     Backward:	OEMHEAMR
+Pos: 59     Forward :	BIASSE F
+Pos: 59     Backward:	INAON I
+Pos: 60     Forward :	WXMC AD
+Pos: 60     Backward:	FAEEAOE SR
+Pos: 61     Forward :	DEN JEP
+Pos: 61     Backward:	TFE EAND
+Pos: 62     Forward :	IAH SCH EA
+Pos: 62     Backward:	LM AOEEA N
+Pos: 63     Forward :	B XNA DIA
+Pos: 63     Backward:	I AEEEO XH
+Pos: 64     Forward :	 DHEA IOEAE
+Pos: 64     Backward:	 TMH IAPG
+Pos: 65     Forward :	DHEA IOEAE
+Pos: 65     Backward:	TMH IAPG
+Pos: 66     Forward :	BIA XNLN
+Pos: 66     Backward:	IN DYJM
+Pos: 67     Forward :	W PPWR E
+Pos: 67     Backward:	F AOEAA EA
+Pos: 68     Forward :	 OEEOJL PTH
+Pos: 68     Backward:	 SDLH REO
+Pos: 69     Forward :	OEEOJL PTH
+Pos: 69     Backward:	SDLH REO
+Pos: 70     Forward :	INGIA FYO
+Pos: 70     Backward:	XINGR BBP
+Pos: 71     Forward :	MD RPIAEO
+Pos: 71     Backward:	EOC PUEOE
+Pos: 72     Forward :	O OBXWT
+Pos: 72     Backward:	AE XYTHIAY
+Pos: 73     Forward :	 EOTEDJA
+Pos: 73     Backward:	 CIAIAJTHC
+Pos: 74     Forward :	EOTEDJA
+Pos: 74     Backward:	CIAIAJTHC
+Pos: 75     Forward :	AEBIAIAMM
+Pos: 75     Backward:	EEAWSIF
+Pos: 76     Forward :	YYTHGXF
+Pos: 76     Backward:	MHJDCI
+Pos: 77     Forward :	GUIUAG
+Pos: 77     Backward:	EAEOMEST
+Pos: 78     Forward :	INCJUAE
+Pos: 78     Backward:	OLXEAINGG
+Pos: 79     Forward :	ERSBL IA
+Pos: 79     Backward:	JSACJ H
+Pos: 80     Forward :	PXINGW OEG
+Pos: 80     Backward:	GAEUA PT
+Pos: 81     Forward :	DLJ NUOE
+Pos: 81     Backward:	TTHL YINGO
+Pos: 82     Forward :	FI PBBD
+Pos: 82     Backward:	OEING OECHR
+Pos: 83     Forward :	M EOINGREC
+Pos: 83     Backward:	EO DUINGNS
+Pos: 84     Forward :	 INGLHCFS
+Pos: 84     Backward:	 XTHBOELAE
+Pos: 85     Forward :	INGLHCFS
+Pos: 85     Backward:	XTHBOELAE
+Pos: 86     Forward :	FWNTIU
+Pos: 86     Backward:	OEEERUJ
+Pos: 87     Forward :	THLYAEO
+Pos: 87     Backward:	NMFXTP
+Pos: 88     Forward :	BMUEOIA EO
+Pos: 88     Backward:	IUIFE OE
+Pos: 89     Forward :	EAFTX WAE
+Pos: 89     Backward:	INGJAETH IAG
+Pos: 90     Forward :	NSE DLG
+Pos: 90     Backward:	THYIA JJT
+Pos: 91     Forward :	AB IAWU N
+Pos: 91     Backward:	BEA WAING M
+Pos: 92     Forward :	Y YJB RM
+Pos: 92     Backward:	M HLC AF
+Pos: 93     Forward :	 GIING LXF
+Pos: 93     Backward:	 EAINGU HCI
+Pos: 94     Forward :	GIING LXF
+Pos: 94     Backward:	EAINGU HCI
+Pos: 95     Forward :	ML AUATH
+Pos: 95     Backward:	EOTH RESEO
+Pos: 96     Forward :	F DCJYOE
+Pos: 96     Backward:	OE CXEABO
+Pos: 97     Forward :	 ORSPB X
+Pos: 97     Backward:	 AESAUH A
+Pos: 98     Forward :	ORSPB X
+Pos: 98     Backward:	AESAUH A
+Pos: 99     Forward :	PXBR NIA
+Pos: 99     Backward:	GAEYING FH
+Pos: 100    Forward :	DTH AEOEH
+Pos: 100    Backward:	TIAB PPE
+Pos: 101    Forward :	AEW FNOING
+Pos: 101    Backward:	EE NYDTH
+Pos: 102    Forward :	T EAPMTE
+Pos: 102    Backward:	N IOEWWEA
+Pos: 103    Forward :	 HEODOPOE
+Pos: 103    Backward:	 UDOLRO
+Pos: 104    Forward :	HEODOPOE
+Pos: 104    Backward:	UDOLRO
+Pos: 105    Forward :	INGOEWFBS
+Pos: 105    Backward:	XRTBHAE
+Pos: 106    Forward :	THGRRIH
+Pos: 106    Backward:	ABPINGUE
+Pos: 107    Forward :	SOHYO W
+Pos: 107    Backward:	HXBXD B
+Pos: 108    Forward :	EOWUM THC
+Pos: 108    Backward:	CEIW OES
+Pos: 109    Forward :	TFD EFY
+Pos: 109    Backward:	NJO GLW
+Pos: 110    Forward :	NOE OETINGEA
+Pos: 110    Backward:	THR THREON
+Pos: 111    Forward :	TH INGLHD ING
+Pos: 111    Backward:	A OFAEX TH
+Pos: 112    Forward :	 UMEOI TU
+Pos: 112    Backward:	 DUINGIA WJ
+Pos: 113    Forward :	UMEOI TU
+Pos: 113    Backward:	DUINGIA WJ
+Pos: 114    Forward :	EAJX OAEX
+Pos: 114    Backward:	INGOED LTA
+Pos: 115    Forward :	LP WEON N
+Pos: 115    Backward:	PA TFF M
+Pos: 116    Forward :	OE GTAE RB
+Pos: 116    Backward:	S BAEP AIA
+Pos: 117    Forward :	 SSF LEOU
+Pos: 117    Backward:	 HYN HOJ
+Pos: 118    Forward :	SSF LEOU
+Pos: 118    Backward:	HYN HOJ
+Pos: 119    Forward :	AEA AEAAEI
+Pos: 119    Backward:	BI RTTL
+Pos: 120    Forward :	H DOEOC X
+Pos: 120    Backward:	U CEOFAE A
+Pos: 121    Forward :	 OTHTING NH
+Pos: 121    Backward:	 AEPAEN FE
+Pos: 122    Forward :	OTHTING NH
+Pos: 122    Backward:	AEPAEN FE
+Pos: 123    Forward :	JSAE AEOG
+Pos: 123    Backward:	RYC PDT
+Pos: 124    Forward :	AA FMUB
+Pos: 124    Backward:	BG NWINGIA
+Pos: 125    Forward :	R EADBEOE
+Pos: 125    Backward:	Y IOCOEA
+Pos: 126    Forward :	 HOEINGEAP B
+Pos: 126    Backward:	 URUTR IA
+Pos: 127    Forward :	HOEINGEAP B
+Pos: 127    Backward:	URUTR IA
+Pos: 128    Forward :	THLOF EOJ
+Pos: 128    Backward:	ATHEOB OING
+Pos: 129    Forward :	FTHR EAGOE
+Pos: 129    Backward:	OEPP TYO
+Pos: 130    Forward :	JO OOEBB
+Pos: 130    Backward:	RX EOIHIA
+Pos: 131    Forward :	EO THYREO J
+Pos: 131    Backward:	C PGINGO ING
+Pos: 132    Forward :	 JAEHEA GT
+Pos: 132    Backward:	 RWBT YY
+Pos: 133    Forward :	JAEHEA GT
+Pos: 133    Backward:	RWBT YY
+Pos: 134    Forward :	CWO OEJC
+Pos: 134    Backward:	IAEEO ITHS
+Pos: 135    Forward :	TTH YIAF X
+Pos: 135    Backward:	NP GSL A
+Pos: 136    Forward :	J AETHT NT
+Pos: 136    Backward:	R WJR FY
+Pos: 137    Forward :	 CUL AEJING
+Pos: 137    Backward:	 IAEOF PTHTH
+Pos: 138    Forward :	CUL AEJING
+Pos: 138    Backward:	IAEOF PTHTH
+Pos: 139    Forward :	IM FIATM
+Pos: 139    Backward:	OU NSWF
+Pos: 140    Forward :	EA EATHOXL
+Pos: 140    Backward:	ING IJLCU
+Pos: 141    Forward :	 HUWUS T
+Pos: 141    Backward:	 UEOTEG Y
+Pos: 142    Forward :	HUWUS T
+Pos: 142    Backward:	UEOTEG Y
+Pos: 143    Forward :	IGCTH J EA
+Pos: 143    Backward:	OBXM TH N
+Pos: 144    Forward :	SRG IA DING
+Pos: 144    Backward:	HSS S XTH
+Pos: 145    Forward :	PC TH ITG
+Pos: 145    Backward:	GT J IAWT
+Pos: 146    Forward :	X U XOU R
+Pos: 146    Backward:	W EO DLING X
+Pos: 147    Forward :	 I PWB EAS
+Pos: 147    Backward:	 O ATC MAE
+Pos: 148    Forward :	I PWB EAS
+Pos: 148    Backward:	O ATC MAE
+Pos: 149    Forward :	 OEGING SIAE
+Pos: 149    Backward:	 SBU OUG
+Pos: 150    Forward :	OEGING SIAE
+Pos: 150    Backward:	SBU OUG
+Pos: 151    Forward :	SL MYLN
+Pos: 151    Backward:	HTH EAXJM
+Pos: 152    Forward :	F EUWREO
+Pos: 152    Backward:	OE FIAAOE
+Pos: 153    Forward :	 IAFJLW O
+Pos: 153    Backward:	 LJLHIA P
+Pos: 154    Forward :	IAFJLW O
+Pos: 154    Backward:	LJLHIA P
+Pos: 155    Forward :	NIAD IAH
+Pos: 155    Backward:	THINGRJ EE
+Pos: 156    Forward :	MDIA XOG
+Pos: 156    Backward:	EOCW THDT
+Pos: 157    Forward :	OY EMUIA
+Pos: 157    Backward:	AEH IAWINGH
+Pos: 158    Forward :	G BDBOED
+Pos: 158    Backward:	EA EAOCPR
+Pos: 159    Forward :	 YOEINGNE U
+Pos: 159    Backward:	 MRUYN J
+Pos: 160    Forward :	YOEINGNE U
+Pos: 160    Backward:	MRUYN J
+Pos: 161    Forward :	THLPC AEL
+Pos: 161    Backward:	ATHOEOE TU
+Pos: 162    Forward :	FEON EOSTH
+Pos: 162    Backward:	OEDE FGEO
+Pos: 163    Forward :	INGH TTHY N
+Pos: 163    Backward:	XM AEMB M
+Pos: 164    Forward :	B SGP RI
+Pos: 164    Backward:	I YSU AL
+Pos: 165    Forward :	 ACB LCE
+Pos: 165    Backward:	 BTY HAEEA
+Pos: 166    Forward :	ACB LCE
+Pos: 166    Backward:	BTY HAEEA
+Pos: 167    Forward :	XT AINGPF
+Pos: 167    Backward:	WIA RNRI
+Pos: 168    Forward :	AE DAEFA AE
+Pos: 168    Backward:	E CCBS G
+Pos: 169    Forward :	 OARJ LJ
+Pos: 169    Backward:	 AEGPEA JING
+Pos: 170    Forward :	OARJ LJ
+Pos: 170    Backward:	AEGPEA JING
+Pos: 171    Forward :	ROS WG B
+Pos: 171    Backward:	YXA AY IA
+Pos: 172    Forward :	EOX JOE EOO
+Pos: 172    Backward:	CAE LI OP
+Pos: 173    Forward :	D IY EAIAW
+Pos: 173    Backward:	T INGG TEB
+Pos: 174    Forward :	 MAE OXTHR
+Pos: 174    Backward:	 EOW EOTHOEX
+Pos: 175    Forward :	MAE OXTHR
+Pos: 175    Backward:	EOW EOTHOEX
+Pos: 176    Forward :	C THEEEAH
+Pos: 176    Backward:	IA PIAGME
+Pos: 177    Forward :	 JBOESOJ
+Pos: 177    Backward:	 REATHODING
+Pos: 178    Forward :	JBOESOJ
+Pos: 178    Backward:	REATHODING
+Pos: 179    Forward :	YINGMMG D
+Pos: 179    Backward:	MOEAWY R
+Pos: 180    Forward :	UEDOE EING
+Pos: 180    Backward:	DFOI NTH
+Pos: 181    Forward :	IAOEY CTEO
+Pos: 181    Backward:	LRG OEWOE
+Pos: 182    Forward :	THAE NOWAE
+Pos: 182    Backward:	AW ELIAG
+Pos: 183    Forward :	C HWDLU
+Pos: 183    Backward:	IA MTJJJ
+Pos: 184    Forward :	 BGIAWAE U
+Pos: 184    Backward:	 IBWAT J
+Pos: 185    Forward :	BGIAWAE U
+Pos: 185    Backward:	IBWAT J
+Pos: 186    Forward :	SYJEO AEM
+Pos: 186    Backward:	HHLF TF
+Pos: 187    Forward :	GIT EOXW
+Pos: 187    Backward:	EAINGAE FCB
+Pos: 188    Forward :	MS TUTH R
+Pos: 188    Backward:	EOY AEEOE X
+Pos: 189    Forward :	A SCE EAU
+Pos: 189    Backward:	B YXG MJ
+Pos: 190    Forward :	 AROE SAEIA
+Pos: 190    Backward:	 BSTH OTH
+Pos: 191    Forward :	AROE SAEIA
+Pos: 191    Backward:	BSTH OTH
+Pos: 192    Forward :	PING MEOOEP
+Pos: 192    Backward:	GO EAFPD
+Pos: 193    Forward :	U ETNHS
+Pos: 193    Backward:	D FAEYEAAE
+Pos: 194    Forward :	 IASPAIX
+Pos: 194    Backward:	 LYOEEOUA
+Pos: 195    Forward :	IASPAIX
+Pos: 195    Backward:	LYOEEOUA
+Pos: 196    Forward :	AEOEAYNEO
+Pos: 196    Backward:	BDHXFOE
+Pos: 197    Forward :	INGIAUAEWY
+Pos: 197    Backward:	XNIPIAW
+Pos: 198    Forward :	WFFDING ING
+Pos: 198    Backward:	FJNJEO TH
+Pos: 199    Forward :	NEAIAH TOE
+Pos: 199    Backward:	THIWAE WO
+Pos: 200    Forward :	HYEO OBB
+Pos: 200    Backward:	UHING LHIA
+Pos: 201    Forward :	GJ WREOW
+Pos: 201    Backward:	EAOE TINGOB
+Pos: 202    Forward :	L GHEATHING
+Pos: 202    Backward:	P BBTOETH
+Pos: 203    Forward :	 SWOET X
+Pos: 203    Backward:	 HEEOGW A
+Pos: 204    Forward :	SWOET X
+Pos: 204    Backward:	HEEOGW A
+Pos: 205    Forward :	TTHOEO NF
+Pos: 205    Backward:	NPTHL FI
+Pos: 206    Forward :	JINGW AEAB
+Pos: 206    Backward:	ROT PSIA
+Pos: 207    Forward :	UG FJEOY
+Pos: 207    Backward:	DB NEAOW
+Pos: 208    Forward :	S EASEAING P
+Pos: 208    Backward:	H IATEO D
+Pos: 209    Forward :	 HXOH HS
+Pos: 209    Backward:	 UAEEOAE EAAE
+Pos: 210    Forward :	HXOH HS
+Pos: 210    Backward:	UAEEOAE EAAE
+Pos: 211    Forward :	DTHEO AIEA
+Pos: 211    Backward:	TPING EOUN
+Pos: 212    Forward :	JJ EAYDW
+Pos: 212    Backward:	ROE HXXB
+Pos: 213    Forward :	L IAUITHH
+Pos: 213    Backward:	P NIIAOEE
+Pos: 214    Forward :	 WFXEOEA
+Pos: 214    Backward:	 FJDGDN
+Pos: 215    Forward :	WFXEOEA
+Pos: 215    Backward:	FJDGDN
+Pos: 216    Forward :	NPOEMDE
+Pos: 216    Backward:	THATHWXEA
+Pos: 217    Forward :	OEINGDIPING
+Pos: 217    Backward:	SOOIARTH
+Pos: 218    Forward :	UOEXFT N
+Pos: 218    Backward:	DRDBW M
+Pos: 219    Forward :	THPRO RE
+Pos: 219    Backward:	AAPL AEA
+Pos: 220    Forward :	OEOW LP T
+Pos: 220    Backward:	SXT HR Y
+Pos: 221    Forward :	EOG AF JING
+Pos: 221    Backward:	CB RB THTH
+Pos: 222    Forward :	S DR IATH
+Pos: 222    Backward:	H CP SWE
+Pos: 223    Forward :	 OO THOO I
+Pos: 223    Backward:	 AEX JLD L
+Pos: 224    Forward :	OO THOO I
+Pos: 224    Backward:	AEX JLD L
+Pos: 225    Forward :	EO UWM CP
+Pos: 225    Backward:	C EOTW AED
+Pos: 226    Forward :	 IGD INGHN
+Pos: 226    Backward:	 OBO NEAM
+Pos: 227    Forward :	IGD INGHN
+Pos: 227    Backward:	OBO NEAM
+Pos: 228    Forward :	SOE AEARTH
+Pos: 228    Backward:	HR CEOAEO
+Pos: 229    Forward :	TH AEALY F
+Pos: 229    Backward:	A GHHB I
+Pos: 230    Forward :	 RIAAP AU
+Pos: 230    Backward:	 YNRU SJ
+Pos: 231    Forward :	RIAAP AU
+Pos: 231    Backward:	YNRU SJ
+Pos: 232    Forward :	WDB JAEA
+Pos: 232    Backward:	FCY EATC
+Pos: 233    Forward :	OT SEOME
+Pos: 233    Backward:	AEIA AFIEA
+Pos: 234    Forward :	AE XTGPEA
+Pos: 234    Backward:	E AEAEDRN
+Pos: 235    Forward :	 DSIFDP
+Pos: 235    Backward:	 TYMBXD
+Pos: 236    Forward :	DSIFDP
+Pos: 236    Backward:	TYMBXD
+Pos: 237    Forward :	ANRIH E
+Pos: 237    Backward:	BLPIAEA EA
+Pos: 238    Forward :	EOXA PP
+Pos: 238    Backward:	JXDEO RD
+Pos: 239    Forward :	EOPEA FHTH
+Pos: 239    Backward:	CAH BEAEO
+Pos: 240    Forward :	OEIA RAYIA
+Pos: 240    Backward:	SN PEOBH
+Pos: 241    Forward :	W OEAPOEW
+Pos: 241    Backward:	F XHUPB
+Pos: 242    Forward :	 EOIABNTHB
+Pos: 242    Backward:	 CNYYOEIA
+Pos: 243    Forward :	EOIABNTHB
+Pos: 243    Backward:	CNYYOEIA
+Pos: 244    Forward :	WTPEEO O
+Pos: 244    Backward:	FIAOEGO P
+Pos: 245    Forward :	AEEOOEEA IAIA
+Pos: 245    Backward:	EDTHT EH
+Pos: 246    Forward :	INGINGO XOEB
+Pos: 246    Backward:	XOEO THPIA
+Pos: 247    Forward :	UTH ENEO EO
+Pos: 247    Backward:	DP IAYO OE
+Pos: 248    Forward :	J BPEA WI
+Pos: 248    Backward:	R EAOET IAL
+Pos: 249    Forward :	 YEOO DC O
+Pos: 249    Backward:	 MDEO JAE P
+Pos: 250    Forward :	YEOO DC O
+Pos: 250    Backward:	MDEO JAE P
+Pos: 251    Forward :	INGTH IAING IAD
+Pos: 251    Backward:	XP WN ER
+Pos: 252    Forward :	J YAE XEM
+Pos: 252    Backward:	R HC THNF
+Pos: 253    Forward :	 GA ECXF
+Pos: 253    Backward:	 EAG IAOECI
+Pos: 254    Forward :	GA ECXF
+Pos: 254    Backward:	EAG IAOECI
+Pos: 255    Forward :	R BNUAC
+Pos: 255    Backward:	Y EAEESS
+Pos: 256    Forward :	 YHCJFX
+Pos: 256    Backward:	 MMXEALA
+Pos: 257    Forward :	YHCJFX
+Pos: 257    Backward:	MMXEALA
+Pos: 258    Forward :	BRSTNN
+Pos: 258    Backward:	ISARFM
+Pos: 259    Forward :	PXLAERG
+Pos: 259    Backward:	GAEFPAT
+Pos: 260    Forward :	DMFLUX
+Pos: 260    Backward:	TUNHINGA
+Pos: 261    Forward :	EAEAABNP
+Pos: 261    Backward:	INGIRCFD
+Pos: 262    Forward :	HDINGAEH X
+Pos: 262    Backward:	UCUPEA A
+Pos: 263    Forward :	OLFA NS
+Pos: 263    Backward:	AETHNEO FAE
+Pos: 264    Forward :	FEAEA AEI U
+Pos: 264    Backward:	OEIH PU J
+Pos: 265    Forward :	HIA FY AEIA
+Pos: 265    Backward:	UN NX TH
+Pos: 266    Forward :	W EAU EOOEJ
+Pos: 266    Backward:	F II FPING
+Pos: 267    Forward :	 HF TNGY
+Pos: 267    Backward:	 UJ AEYYW
+Pos: 268    Forward :	HF TNGY
+Pos: 268    Backward:	UJ AEYYW
+Pos: 269    Forward :	N SPOEINGN
+Pos: 269    Backward:	TH YOEIEOM
+Pos: 270    Forward :	 AEOYHRP
+Pos: 270    Backward:	 BDGAEAD
+Pos: 271    Forward :	AEOYHRP
+Pos: 271    Backward:	BDGAEAD
+Pos: 272    Forward :	INGAEEOLHD
+Pos: 272    Backward:	XWINGHEAR
+Pos: 273    Forward :	CJAAEEA
+Pos: 273    Backward:	IAOEREONN
+Pos: 274    Forward :	LDEACDU
+Pos: 274    Backward:	PCHOEXJ
+Pos: 275    Forward :	OIANIAEING
+Pos: 275    Backward:	AENEIATTH
+Pos: 276    Forward :	WHXEOTT
+Pos: 276    Backward:	FMDFWY
+Pos: 277    Forward :	BPTOJ L
+Pos: 277    Backward:	IAAELTH U
+Pos: 278    Forward :	OESWIA SX
+Pos: 278    Backward:	SYTS GA
+Pos: 279    Forward :	AGTH THNC
+Pos: 279    Backward:	BBJ MFS
+Pos: 280    Forward :	SU GAEFTH
+Pos: 280    Backward:	HEO SPLEO
+Pos: 281    Forward :	I CFTY I
+Pos: 281    Backward:	O TNRB L
+Pos: 282    Forward :	 XEALP CEO
+Pos: 282    Backward:	 WIFU AEOE
+Pos: 283    Forward :	XEALP CEO
+Pos: 283    Backward:	WIFU AEOE
+Pos: 284    Forward :	HMB INGW N
+Pos: 284    Backward:	UUY NIA M
+Pos: 285    Forward :	EAT AED RX
+Pos: 285    Backward:	INGIA CJ AA
+Pos: 286    Forward :	AE AIA LN I
+Pos: 286    Backward:	E GW HF L
+Pos: 287    Forward :	 RY AAE CW
+Pos: 287    Backward:	 YH RP AEB
+Pos: 288    Forward :	RY AAE CW
+Pos: 288    Backward:	YH RP AEB
+Pos: 289    Forward :	G DF INGTHU
+Pos: 289    Backward:	EA CN NOEJ
+Pos: 290    Forward :	 OEA AEEAEE
+Pos: 290    Backward:	 AEI CGTEA
+Pos: 291    Forward :	OEA AEEAEE
+Pos: 291    Backward:	AEI CGTEA
+Pos: 292    Forward :	H AOEEOPY
+Pos: 292    Backward:	U GTHFRW
+Pos: 293    Forward :	 RINGTFINGL
+Pos: 293    Backward:	 YOAEBEOU
+Pos: 294    Forward :	RINGTFINGL
+Pos: 294    Backward:	YOAEBEOU
+Pos: 295    Forward :	USRHS A
+Pos: 295    Backward:	DYPAEG C
+Pos: 296    Forward :	AOEOTH MOE
+Pos: 296    Backward:	BXINGM IO
+Pos: 297    Forward :	EOJG GBM
+Pos: 297    Backward:	COES DHF
+Pos: 298    Forward :	LC IRXEO
+Pos: 298    Backward:	PT MINGCOE
+Pos: 299    Forward :	X NHUWF
+Pos: 299    Backward:	W LBEIAI
+Pos: 300    Forward :	 EWCDAAE
+Pos: 300    Backward:	 JEXJSG
+Pos: 301    Forward :	EWCDAAE
+Pos: 301    Backward:	JEXJSG
+Pos: 302    Forward :	TRIAJL TH
+Pos: 302    Backward:	NSWEAJ EO
+Pos: 303    Forward :	PYSW YEA
+Pos: 303    Backward:	GHAA BN
+Pos: 304    Forward :	GXJ PD EO
+Pos: 304    Backward:	EAAEL UX OE
+Pos: 305    Forward :	DI BI WD
+Pos: 305    Backward:	TING YIA IAR
+Pos: 306    Forward :	M TX DEA
+Pos: 306    Backward:	EO IAD JNC
+Pos: 307    Forward :	 AEP IACMN
+Pos: 307    Backward:	 EA WOEIM
+Pos: 308    Forward :	AEP IACMN
+Pos: 308    Backward:	EA WOEIM
+Pos: 309    Forward :	OE YNGRC
+Pos: 309    Backward:	S HEDAS
+Pos: 310    Forward :	 GHILFX
+Pos: 310    Backward:	 EAMMHLA
+Pos: 311    Forward :	GHILFX
+Pos: 311    Backward:	EAMMHLA
+Pos: 312    Forward :	BNATNAE
+Pos: 312    Backward:	ILRRFG
+Pos: 313    Forward :	EDLAELF
+Pos: 313    Backward:	JCFPJI
+Pos: 314    Forward :	OMFWAH
+Pos: 314    Backward:	AEUNASE
+Pos: 315    Forward :	EAEAJJOO
+Pos: 315    Backward:	INGILEADP
+Pos: 316    Forward :	HISMIAT
+Pos: 316    Backward:	UINGAWEY
+Pos: 317    Forward :	MXDXJS
+Pos: 317    Backward:	EOAEOTHTHAE
+Pos: 318    Forward :	DOEEIAIW
+Pos: 318    Backward:	TRIASUB
+Pos: 319    Forward :	THBTHYTH X
+Pos: 319    Backward:	AEAJXOE A
+Pos: 320    Forward :	YUUE NI
+Pos: 320    Backward:	MEOIG FL
+Pos: 321    Forward :	IFOE AECE
+Pos: 321    Backward:	OJTH PAEEA
+Pos: 322    Forward :	NING FINGPOE
+Pos: 322    Backward:	THO NNRO
+Pos: 323    Forward :	U EAAEFBH
+Pos: 323    Backward:	D ICBHE
+Pos: 324    Forward :	 HARROA
+Pos: 324    Backward:	 UGPINGDC
+Pos: 325    Forward :	HARROA
+Pos: 325    Backward:	UGPINGDC
+Pos: 326    Forward :	ROHMM EO
+Pos: 326    Backward:	YXBWI OE
+Pos: 327    Forward :	EOWDG WO
+Pos: 327    Backward:	CEOD IAP
+Pos: 328    Forward :	TOEI DIAW
+Pos: 328    Backward:	NRM JEB
+Pos: 329    Forward :	THN IAXTHF
+Pos: 329    Backward:	AL WTHOEI
+Pos: 330    Forward :	E YEEA W
+Pos: 330    Backward:	J HIAGS B
+Pos: 331    Forward :	 GBOEJ THP
+Pos: 331    Backward:	 EAEATHEA OED
+Pos: 332    Forward :	GBOEJ THP
+Pos: 332    Backward:	EAEATHEA OED
+Pos: 333    Forward :	YINGS EH D
+Pos: 333    Backward:	MOA GEA R
+Pos: 334    Forward :	UX OEA EP
+Pos: 334    Backward:	DAE THEO ND
+Pos: 335    Forward :	D INGEA CHC
+Pos: 335    Backward:	T OH OEEAS
+Pos: 336    Forward :	 UIA NAFU
+Pos: 336    Backward:	 DN EEOLJ
+Pos: 337    Forward :	UIA NAFU
+Pos: 337    Backward:	DN EEOLJ
+Pos: 338    Forward :	W HEATAEN
+Pos: 338    Backward:	F MHRTM
+Pos: 339    Forward :	 BIALEORU
+Pos: 339    Backward:	 INFFAJ
+Pos: 340    Forward :	BIALEORU
+Pos: 340    Backward:	INFFAJ
+Pos: 341    Forward :	WMTLAEI
+Pos: 341    Backward:	FUAEHTL
+Pos: 342    Forward :	EASAEOC P
+Pos: 342    Backward:	INGYRFAE D
+Pos: 343    Forward :	ADTING HI
+Pos: 343    Backward:	BCAEN EAL
+Pos: 344    Forward :	OSAE ACW
+Pos: 344    Backward:	AEYC EOAEB
+Pos: 345    Forward :	AA EAINGTHY
+Pos: 345    Backward:	BG HNOEW
+Pos: 346    Forward :	R IAAEEINGY
+Pos: 346    Backward:	Y NCGEOW
+Pos: 347    Forward :	 WAOEHINGP
+Pos: 347    Backward:	 FGTHAEEOD
+Pos: 348    Forward :	WAOEHINGP
+Pos: 348    Backward:	FGTHAEEOD
+Pos: 349    Forward :	RINGEOHHI
+Pos: 349    Backward:	YOINGAEEAL
+Pos: 350    Forward :	UJEOAC Y
+Pos: 350    Backward:	DOEINGEOAE W
+Pos: 351    Forward :	LJEAING INGB
+Pos: 351    Backward:	POEHN EOIA
+Pos: 352    Forward :	LIAAE HEO F
+Pos: 352    Backward:	PNC AEO I
+Pos: 353    Forward :	WA EOEA AD
+Pos: 353    Backward:	FG INGT SR
+Pos: 354    Forward :	R JO JEC
+Pos: 354    Backward:	Y OEEO EANS
+Pos: 355    Forward :	 LTH SCFX
+Pos: 355    Backward:	 PP AOELA
+Pos: 356    Forward :	LTH SCFX
+Pos: 356    Backward:	PP AOELA
+Pos: 357    Forward :	J XNTNF
+Pos: 357    Backward:	R AEERFI
+Pos: 358    Forward :	 DHLAEAN
+Pos: 358    Backward:	 TMFPSM
+Pos: 359    Forward :	DHLAEAN
+Pos: 359    Backward:	TMFPSM
+Pos: 360    Forward :	BMFJR E
+Pos: 360    Backward:	IUNEAA EA
+Pos: 361    Forward :	EAEASL PG
+Pos: 361    Backward:	INGIAH RT
+Pos: 362    Forward :	HXA FUAE
+Pos: 362    Backward:	UAER BINGG
+Pos: 363    Forward :	DD RBL EO
+Pos: 363    Backward:	TC PCJ OE
+Pos: 364    Forward :	O OINGW WP
+Pos: 364    Backward:	AE XUA IAD
+Pos: 365    Forward :	 EOLJ DHC
+Pos: 365    Backward:	 CTHL JEAS
+Pos: 366    Forward :	EOLJ DHC
+Pos: 366    Backward:	CTHL JEAS
+Pos: 367    Forward :	FI IAAF 
+Pos: 367    Backward:	OEING WEOL 
+------- END KEY "ENIGMA" -------
